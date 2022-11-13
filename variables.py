@@ -18,7 +18,7 @@ cc = 1032488904                                 # int
 
 
 
-           # 1.Execute Python Variables - print! ... Imprimir variables
+           # 1. Execute Python Variables - print! ... Imprimir variables
            
         
 print("----  1.Execute Python Variables! ---- \n")
@@ -98,7 +98,7 @@ print(d)
 print("\n")
 
 
-       # Python Casting Data Types to string! - Ejemplo de casteo a tipo string
+       # 3.1 Python Casting Data Types to string! - Ejemplo de casteo a tipo string
         
         
 print("--- 3.1 Casting to string --- \n")
@@ -116,7 +116,7 @@ print(z)
 print("\n")
 
 
-       # Python Casting Data Types to float! - Ejemplo de casteo a tipo float
+       # 3.2 Python Casting Data Types to float! - Ejemplo de casteo a tipo float
        
         
 print("--- 3.2 Casting to float --- \n")
@@ -136,7 +136,7 @@ print(k)
 print("\n")
 
 
-               # datetime - print! ... Imprimir tipo de fecha actual 
+               # 4. datetime - print! ... Imprimir tipo de fecha actual 
                
                
 print("----  4. Execute Python datetime! ---- \n")
